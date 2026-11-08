@@ -1,2 +1,6 @@
+#include <stdio.h>
 
-.mainpy
+int main() {
+    printf("Hello Bharat!");
+    return 0;
+}
