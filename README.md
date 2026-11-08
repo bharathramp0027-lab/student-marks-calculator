@@ -1,2 +1,2 @@
-# student-marks-calculator
+
 .mainpy
